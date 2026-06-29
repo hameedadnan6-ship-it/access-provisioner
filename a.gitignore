@@ -1,0 +1,12 @@
+# Ignore local database states
+*.db
+*.sqlite3
+
+# Ignore the local mock vault and logs
+vault/
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+.DS_Store
