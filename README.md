@@ -1,6 +1,4 @@
 
-
-```markdown
 # Corporate Legal IAM System: Automated Access & Compliance Provisioning
 
 An automated Identity and Access Management (IAM) engine built to handle high-turnover matter onboarding and offboarding within law firms. 
